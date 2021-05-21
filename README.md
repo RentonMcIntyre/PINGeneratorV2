@@ -4,7 +4,7 @@ A modified version of the PIN Generation App originally created for Intellicore'
 This version is a Full Stack application containing:
   * An Angular Front-end (the same from the original version, with the logic stripped out)
   * A C# based API and Service Layer, using Dapper as an ORM for Data Handling
-  * A Microsoft SQL Server Database (including some Stored Procedures as I still believe handling great quantities of data is best suited to the DBMS itself)
+  * A Microsoft SQL Server Database (including some Stored Procedures as I still believe handling great quantities of data is best suited to the DBMS itself, a copy of these can be viewed in Script form in PinGenerator.Data/DBAssets)
  
 To Use:
   * C# Application has been setup to be run in Visual Studio
